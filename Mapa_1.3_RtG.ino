@@ -171,4 +171,4 @@ void setOutput(bool on) {
   digitalWrite(PIN_OUTPUT_LED, on);
   digitalWrite(PIN_OUTPUT_D4, on);
 }
-// Made By Anonimus end Sz.H.
+// Made By Anonimus and Sz.H.
